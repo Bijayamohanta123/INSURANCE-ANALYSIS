@@ -112,6 +112,7 @@ Excel
 
 
 PowerBi
+https://github.com/Bijayamohanta123/INSURANCE-ANALYSIS/blob/main/POWERBI%20SCREENSHOT(INSURANCE).png
 
 
 
