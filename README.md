@@ -101,19 +101,20 @@ The **Insurance Analytics Dashboard** demonstrates the power of integrated busin
 It highlights how consistent logic, clean data, and relational design can yield reliable, cross-verifiable insights for the insurance domain.
 
 
-AUTHOR
-BIJAYA MOHANTA
+## 📸 Dashboard Snapshots  
+
+| Excel Dashboard | 
+
+| ![Excel Dashboard]() |
+
+| Power BI Dashboard |
+![Power BI Dashboard]() |
+
+| Tableau Dashboard |
+![Tableau Dashboard]() |
+ 
+
 ---
 
-SCREENSHOTS
-
-
-Excel
-
-
-PowerBi
-https://github.com/Bijayamohanta123/INSURANCE-ANALYSIS/blob/main/POWERBI%20SCREENSHOT(INSURANCE).png
-
-
-
-Tableau
+### 👨‍💻 Author  
+*BIJAYA MOHANTA*  
