@@ -108,7 +108,7 @@ It highlights how consistent logic, clean data, and relational design can yield 
 | ![Excel Dashboard]() |
 
 | Power BI Dashboard |
-![Power BI Dashboard]() |
+![Power BI Dashboard](https://github.com/Bijayamohanta123/INSURANCE-ANALYSIS/blob/main/POWERBI%20SCREENSHOT(INSURANCE).png) |
 
 | Tableau Dashboard |
 ![Tableau Dashboard]() |
